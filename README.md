@@ -1,6 +1,6 @@
 # About
 
-### Hey ! It's ```Ofisial``` :D
+### Hey ! It's ```Ofisial``` :trollface:
 
 -  **Learning :** Everything Which is Possible :fire:	
 -  **Languages :** Obviously ```English``` :laughing:
@@ -14,9 +14,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ofisial&show_icons=true&title_color=8571FF&icon_color=E4FF6B&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofisial&layout=compact&theme=radical)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
